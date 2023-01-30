@@ -4,3 +4,5 @@ Resolusi Saya
 - Mengikuti bootcamp yang menambah ilmu
 - Mempunyai penghasilan 2 digit
 - Menjadi ceo dari suatu perusahaan besar
+- Menguasai Logika Logika pemrograman 
+- Mempelajari react dan vuetify
