@@ -5,3 +5,4 @@ Next JS
 Flutter
 Dart
 Python
+Data Science
